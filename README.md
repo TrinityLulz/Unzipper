@@ -1,2 +1,2 @@
 # Unzipper
-Unzipper for web
+Unzipper for web created by TrinityLulz
